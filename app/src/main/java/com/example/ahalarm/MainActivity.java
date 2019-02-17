@@ -27,7 +27,7 @@ import java.util.Calendar;
 
 
 public class MainActivity extends AppCompatActivity {
-
+    // init all the XML variables.
     AlarmManager alarmManager;
     private PendingIntent pending_intent;
     private TimePicker alarmTimePicker;
@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
     Context context;
 
     protected void onCreate(Bundle savedInstanceState) {
+        // Save state incase of app hibernation.
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
@@ -60,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
         alarmTimePicker = (TimePicker) findViewById(R.id.alarmTimePicker);
 
 
-
+        // Click action for the Set alarm button.
         Button start_alarm= (Button) findViewById(R.id.start_alarm);
         start_alarm.setOnClickListener(new View.OnClickListener() {
             @TargetApi(Build.VERSION_CODES.M)
@@ -69,34 +70,28 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
 
                 calendar.add(Calendar.SECOND, 3);
-                //setAlarmText("You clicked a button");
-
                 final int hour = alarmTimePicker.getHour();
                 final int minute = alarmTimePicker.getMinute();;
 
                 Log.e("MyActivity", "In the receiver with " + hour + " and " + minute);
                 setAlarmText("You clicked a " + hour + " and " + minute);
 
-
+                // Gets the exact time from the TimePicker module converts to milliseconds and passes to alarm manager.
                 calendar.set(Calendar.HOUR_OF_DAY, alarmTimePicker.getHour());
                 calendar.set(Calendar.MINUTE, alarmTimePicker.getMinute());
 
                 myIntent.putExtra("extra", "yes");
                 pending_intent = PendingIntent.getBroadcast(MainActivity.this, 0, myIntent, PendingIntent.FLAG_UPDATE_CURRENT);
 
-                //alarmManager.setExact(AlarmManager.ELAPSED_REALTIME_WAKEUP, calendar.getTimeInMillis(), pending_intent);
                 alarmManager.setAlarmClock(new AlarmManager.AlarmClockInfo(calendar.getTimeInMillis(),
                         pending_intent), pending_intent);
 
-                // now you should change the set Alarm text so it says something nice
-
-
                 setAlarmText("Alarm set to " + hour + ":" + minute);
-                //Toast.makeText(getApplicationContext(), "You set the alarm", Toast.LENGTH_SHORT).show();
             }
 
         });
 
+        // Click action for the stop alarm button.
         Button stop_alarm= (Button) findViewById(R.id.stop_alarm);
         stop_alarm.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -110,12 +105,14 @@ public class MainActivity extends AppCompatActivity {
                 int random_number = r.nextInt(max - min + 1) + min;
                 Log.e("random number is ", String.valueOf(random_number));
 
+                // Puts the Extra value and broadcasts to AlarmReceiver.
                 myIntent.putExtra("extra", "no");
                 sendBroadcast(myIntent);
 
+                // Cancels the running alarm.
                 alarmManager.cancel(pending_intent);
                 setAlarmText("Alarm canceled");
-                //setAlarmText("You clicked a " + " canceled");
+
             }
         });
 

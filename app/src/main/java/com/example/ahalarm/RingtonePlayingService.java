@@ -33,12 +33,15 @@ public class RingtonePlayingService extends Service {
         return null;
     }
 
+// TODO : The notifications don't work. Fix it.
 
-    @RequiresApi(api = Build.VERSION_CODES.JELLY_BEAN)
+    @RequiresApi(api = 23)
     @Override
     public int onStartCommand(Intent intent, int flags, int startId)
     {
+     /*
 
+        WRITE A NEW SECTION TO MAKE NOTIFICATIONS. ALSO HANDLE THE NOTIFICATIONS PROPERLY.
         final NotificationManager mNM = (NotificationManager)
                 getSystemService(NOTIFICATION_SERVICE);
 
@@ -53,7 +56,7 @@ public class RingtonePlayingService extends Service {
                 .setAutoCancel(false)
                 .build();
 
-
+*/
         String state = intent.getExtras().getString("extra");
 
         Log.e("what is going on here  ", state);
@@ -104,9 +107,13 @@ public class RingtonePlayingService extends Service {
             else {
                 mMediaPlayer = MediaPlayer.create(this, R.raw.a1);
             }
+/*
+TODO : The app cannot change the volume levels, and cannot wake up the screen. Fix that!
             float volume = (float) 1.0;
             mMediaPlayer.setVolume(volume,volume);
             mMediaPlayer.setWakeMode(this, WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
+
+*/
             try{
                 mMediaPlayer.setLooping(true);
                 mMediaPlayer.start();
@@ -116,8 +123,8 @@ public class RingtonePlayingService extends Service {
                 Log.e("MediaPlayer", e.getMessage());
             }
 
-
-            mNM.notify(0, mNotify);
+// Notification statement.
+//            mNM.notify(0, mNotify);
 
             this.isRunning = true;
             this.startId = 0;
@@ -158,6 +165,7 @@ public class RingtonePlayingService extends Service {
 
     @Override
     public void onDestroy() {
+// removing the garbage memory.  
         Log.e("JSLog", "on destroy called");
         super.onDestroy();
 
