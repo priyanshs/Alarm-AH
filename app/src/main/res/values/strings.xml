@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AHAlarm</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonSet">SET</string>
+    <string name="buttonReset">RESET</string>
+    <string name="switchAlarm">Set Alarm</string>
+    <string name="textview">Alarm Status:</string>
+    <string name="alarm_off">Alarm Off</string>
+    <string name="alarm_set">Alarm Set</string>
+    <string name="button">Set</string>
+    <string name="button2">Reset</string>
+</resources>
