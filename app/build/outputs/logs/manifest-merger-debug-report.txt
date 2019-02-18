@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:design:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/ae027cd88737aa6269a32369bc508c6c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/19b5d5ecd7c41f413d338d7f160f0179/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a788bb64fcfa2b366a3fabb14cb0b244/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/fd696fb3e5e2c37c09e2fb995ffaef3a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4b57869558e1020835cd540d0379c3ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/48885805cdda241af92c95866e98b97f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3b5d90482ea915c1730756deb128ff08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b3a11313802308662aff41c87178c5a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d35bcb0aef7237a2eaf2130f1ed6d351/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/26cd0087af24fc6faa2c3b1a15f70dd8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5e19db85eb57a893fe8e93e9bd4a6ae8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e7a7ebbb9cd79ed54298bdc77c7381e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c3377b8484bb0c019ad1468a5a3600b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/73d3b947774352d863da78c82c857393/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/be23c54470abdd615510ecdb5d1f027f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/2e15b0785bb795b60c24695c0c73f53b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c17c108dadee1fa6c2d28745c962999d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/77f771b48b00d85b2148495018cf3ffe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/addb3e2d62aa0fdd28e02ae888d7aeb4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2a4f6e854f053c5a23debd2c089bf1e7/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/795657021b870354bbb60bb52a444b54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/6db6e410250bb98d61045d8d422af45c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0eb6edc417fa57e975808c92db0f8663/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/62223cd29c8bc62d4c755ca73516a164/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6446a98225800bceb6e9e50e9a50756a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/955159106c4da8c5a93aecec37ba2d70/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aabed48b054daa4bd9f18cae28b7f98c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f3205ee33d1afa6b6efdab2ddcc3160e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9b2c0932a1f6bc84af492e96be4be951/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ade39f3bb0cf11a944b14e23780265c5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d4800628ffe9d23164e2ea93e0214514/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:5:5-85
+	android:name
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:5:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:9:5-29:19
+MERGED from [com.android.support:design:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/ae027cd88737aa6269a32369bc508c6c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/ae027cd88737aa6269a32369bc508c6c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a788bb64fcfa2b366a3fabb14cb0b244/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a788bb64fcfa2b366a3fabb14cb0b244/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/addb3e2d62aa0fdd28e02ae888d7aeb4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/addb3e2d62aa0fdd28e02ae888d7aeb4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2a4f6e854f053c5a23debd2c089bf1e7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2a4f6e854f053c5a23debd2c089bf1e7/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/addb3e2d62aa0fdd28e02ae888d7aeb4/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.ahalarm.MainActivity
+ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:23:27-74
+receiver#com.example.ahalarm.AlarmReceiver
+ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:26:9-76
+	android:process
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:26:19-44
+	android:name
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:26:45-74
+service#com.example.ahalarm.RingtonePlayingService
+ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:27:9-59
+	android:name
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml:27:18-56
+uses-sdk
+INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml
+INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/ae027cd88737aa6269a32369bc508c6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/ae027cd88737aa6269a32369bc508c6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/19b5d5ecd7c41f413d338d7f160f0179/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/19b5d5ecd7c41f413d338d7f160f0179/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a788bb64fcfa2b366a3fabb14cb0b244/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a788bb64fcfa2b366a3fabb14cb0b244/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/fd696fb3e5e2c37c09e2fb995ffaef3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/fd696fb3e5e2c37c09e2fb995ffaef3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4b57869558e1020835cd540d0379c3ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4b57869558e1020835cd540d0379c3ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/48885805cdda241af92c95866e98b97f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/48885805cdda241af92c95866e98b97f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3b5d90482ea915c1730756deb128ff08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3b5d90482ea915c1730756deb128ff08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b3a11313802308662aff41c87178c5a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b3a11313802308662aff41c87178c5a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d35bcb0aef7237a2eaf2130f1ed6d351/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d35bcb0aef7237a2eaf2130f1ed6d351/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/26cd0087af24fc6faa2c3b1a15f70dd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/26cd0087af24fc6faa2c3b1a15f70dd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5e19db85eb57a893fe8e93e9bd4a6ae8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5e19db85eb57a893fe8e93e9bd4a6ae8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e7a7ebbb9cd79ed54298bdc77c7381e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e7a7ebbb9cd79ed54298bdc77c7381e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c3377b8484bb0c019ad1468a5a3600b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c3377b8484bb0c019ad1468a5a3600b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/73d3b947774352d863da78c82c857393/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/73d3b947774352d863da78c82c857393/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/be23c54470abdd615510ecdb5d1f027f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/be23c54470abdd615510ecdb5d1f027f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/2e15b0785bb795b60c24695c0c73f53b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/2e15b0785bb795b60c24695c0c73f53b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c17c108dadee1fa6c2d28745c962999d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c17c108dadee1fa6c2d28745c962999d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/77f771b48b00d85b2148495018cf3ffe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/77f771b48b00d85b2148495018cf3ffe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/addb3e2d62aa0fdd28e02ae888d7aeb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/addb3e2d62aa0fdd28e02ae888d7aeb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2a4f6e854f053c5a23debd2c089bf1e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2a4f6e854f053c5a23debd2c089bf1e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/795657021b870354bbb60bb52a444b54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/795657021b870354bbb60bb52a444b54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/6db6e410250bb98d61045d8d422af45c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/6db6e410250bb98d61045d8d422af45c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0eb6edc417fa57e975808c92db0f8663/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0eb6edc417fa57e975808c92db0f8663/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/62223cd29c8bc62d4c755ca73516a164/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/62223cd29c8bc62d4c755ca73516a164/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6446a98225800bceb6e9e50e9a50756a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6446a98225800bceb6e9e50e9a50756a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/955159106c4da8c5a93aecec37ba2d70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/955159106c4da8c5a93aecec37ba2d70/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aabed48b054daa4bd9f18cae28b7f98c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aabed48b054daa4bd9f18cae28b7f98c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f3205ee33d1afa6b6efdab2ddcc3160e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f3205ee33d1afa6b6efdab2ddcc3160e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9b2c0932a1f6bc84af492e96be4be951/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9b2c0932a1f6bc84af492e96be4be951/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ade39f3bb0cf11a944b14e23780265c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ade39f3bb0cf11a944b14e23780265c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d4800628ffe9d23164e2ea93e0214514/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/priyansh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d4800628ffe9d23164e2ea93e0214514/AndroidManifest.xml:20:5-44
+INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml
+INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml
+		ADDED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/priyansh/devwork/stupidApps/AHAlarm/app/src/main/AndroidManifest.xml
